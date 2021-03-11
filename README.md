@@ -3,5 +3,5 @@ def new_main():
   print("once upon a time")
   print("there was")
   print("a program")
-if __name __=='__new_main__':
+if __name__=='__new_main__':
   new_main()
